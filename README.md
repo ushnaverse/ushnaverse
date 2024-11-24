@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Ushna Batool (@ushnaverse)
+# 👋 Hi, I’m Ushna (@ushnaverse) a Computer Science Major 💻📊✨
 
 - 👀 **I’m interested in:** Human-Computer Interaction (HCI), UI/UX design, data science, sustainable fashion, and research.  
 - 🌱 **I’m currently learning:** Data Science (upskilling), Machine Learning (ML), app development, and exploring innovative ways to use technology in education and fashion.  
